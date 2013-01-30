@@ -10,7 +10,7 @@ var $ = require('jquery'),
  * Attributes that affect height
  */
 
-var attrs = ['font-size', 'font-family', 'font-weight', 'line-height', 'padding-top', 'padding-bottom'];
+var attrs = ['width', 'font-size', 'font-family', 'font-weight', 'line-height', 'padding-top', 'padding-bottom'];
 
 /**
  * Boilerplate text
